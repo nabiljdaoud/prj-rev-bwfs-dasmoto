@@ -7,12 +7,12 @@ The project can only be accessed through the Codecademy Build Websites from Scra
 website: [www.codecademy.com/](https://www.codecademy.com/)
 
 ### Prerequisites
-Text editor
+Text editor and 
 Web broswer
 
 ### Installing
-I used Atom as my text editor
-I used Google Chrome as my web browser
+I used Atom as my text editor.
+I used Google Chrome as my web browser.
 
 ## Authors
 * Nabil Daoud

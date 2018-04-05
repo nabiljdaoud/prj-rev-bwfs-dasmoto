@@ -1,4 +1,4 @@
-# prj-rev-bwfs-dasmoto
+# Dasmoto Arts & Crafts Website Project
 The purpose of this project was to build a simple website for a fictional arts and crafts store using tools on my computer. 
 In this project I practiced setting up a file structure, an HTML file, and a CSS file.
 
